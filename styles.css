@@ -74,6 +74,13 @@ body {
 .listitems {
     margin-bottom: 10px;
 }
+.projectlink {
+    color: #00D4FF;
+    text-decoration: none;
+}
+.projectlink:hover {
+    text-decoration: underline;
+}
 footer {
     text-align: center;
     padding: 10px;
